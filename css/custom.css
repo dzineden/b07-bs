@@ -1,0 +1,29 @@
+
+.red,
+.blue,
+.green,
+.orange,
+.yellow,
+.pink,
+.lightblue,
+.lightgreen,
+.violet,
+.indigo,
+.wheat,
+.white{
+  min-height: 25px;
+}
+
+.red        {background-color: red}
+.blue       {background-color: blue}
+.green      {background-color: green}
+.orange     {background-color: orange}
+.yellow     {background-color: yellow}
+.pink       {background-color: pink}
+.lightblue  {background-color: lightblue}
+.lightgreen {background-color: lightgreen}
+.violet     {background-color: violet}
+.indigo     {background-color: indigo}
+.wheat      {background-color: wheat}
+.white      {background-color: white}
+
