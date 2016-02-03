@@ -27,3 +27,14 @@
 .wheat      {background-color: wheat}
 .white      {background-color: white}
 
+
+.site-header{
+  border-bottom: solid 6px orange;
+}
+.logo{
+  margin-bottom: 20px;
+}
+.para-img{}
+.para-img img{margin-right: 10px;}
+
+.kg_head-icon-color .glyphicon{color: red}
